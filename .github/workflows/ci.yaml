@@ -3,7 +3,7 @@ on: push
 env:
   DB_NAME: test
   DB_USER: root
-  DB_PASSWORD: Priyanka#123
+  DB_PASSWORD: test123
 jobs:
   run_code_checks:
     runs-on: ubuntu-latest
